@@ -1,5 +1,7 @@
 # MAINTAINERS
 
+Publication Author: Brandi Ransom - brandi.ransom@ibm.com
+
 Mo McElaney - mmcelaney@us.ibm.com
 
 JJ Asghar - jja@ibm.com
